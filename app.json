@@ -14,12 +14,12 @@
              },
             "NO_ONLINE": {
             "description": "",
-            "required": true,
+            "required":false,
              "value": "false"    
              },
             "ANTI_BOT": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
             "ANTI_SPAM": {
@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "FARAZ" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "923206629195" ,
             "required": true
              },
        
@@ -75,17 +75,17 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "FAKE HUMAN" ,
             "required": true
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "FAKE HUMAN" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,7 +100,7 @@
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "default", 
+            "value": "BHAIYA JI MUJE TO WESE YAD KARTE NHI BUS JAB LAGTA HAI MAI OFF HOGAYA TAB ALIVE WALA MESSAGE DAL DETE HO ", 
             "required": true
       },
       "ALIVE_LOGO": {
@@ -111,22 +111,22 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "HORHA HAI TERA GANA DOWNLOad" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "ARHA HAI TERA SONG" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "HAN HAN HORHA HAI TERA VIDEO DOWNLOAD" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "AGAYA VIDEO BUS " ,
             "required": true
       },
           "FILE_DOWN": {
@@ -146,12 +146,12 @@
       },
           "WORK_TYPE": {
             "description": "",
-            "value": "public" ,
+            "value": "private" ,
             "required": true
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "923206629195" ,
             "required": false
       },
          "LANGUAGE": {
@@ -166,12 +166,12 @@
       },
          "HEROKU_API_KEY": {
             "description": "",
-            "value": "" ,
+            "value": "f27428e1-fa95-455b-a8a3-d32bbfb52744" ,
             "required": true
       },
          "HEROKU_APP_NAME": {
             "description": "",
-            "value": "" ,
+            "value": "farazfaraz" ,
             "required": true
       },
          "BAN_MESSAGE": {
@@ -196,12 +196,12 @@
       },
          "MUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "CHALO CHALO BACHA LOG SOJAO GROUP BAND HOGAYA" ,
             "required": true
       },
          "UNMUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "GALI MAT DO VRO GROUP OPEN HOGAYA " ,
             "required": true
       },
         "KICKME_MESSAGE": {
